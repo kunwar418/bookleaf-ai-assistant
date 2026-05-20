@@ -1,0 +1,14 @@
+[
+  {
+    "email": "sara@gmail.com",
+    "query": "Is my book live yet?",
+    "response": "Your book live date is: 25 July 2025",
+    "confidence": 0.9
+  },
+  {
+    "email": "ananya@gmail.com",
+    "query": "Where\u2019s my author copy?",
+    "response": "Escalating to human agent.",
+    "confidence": 0.5
+  }
+]
